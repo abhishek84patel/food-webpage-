@@ -254,6 +254,6 @@ header {
   
   width: 160px;
   margin: 0% auto;
-  border: 2px solid royalblue;
+ /* border: 2px solid royalblue;*/
   padding: 20px 0;
 }
